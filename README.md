@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm a software engineer with 10+ years of commercial experience, specializing in the JavaScript ecosystem — React, Redux, Node.js, HTML, and CSS.
+I'm a software engineer with 10+ years of commercial experience, specializing in the JavaScript ecosystem — React, React Native, Node.js, HTML, CSS and etc.
 
 I focus on building scalable, high-quality products while maintaining a strong balance between business goals and engineering excellence.
 
