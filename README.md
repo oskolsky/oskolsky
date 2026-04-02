@@ -1,7 +1,19 @@
-### Hi there 👋
+## 👋 Hi there
 
-I am Front-end developer with over 10 years of commercial development experience based on the JavaScript, React, Redux, NodeJS, HTML, CSS technology stack.
+I'm a software engineer with 10+ years of commercial experience, specializing in the JavaScript ecosystem — React, Redux, Node.js, HTML, and CSS.
 
-In my work, I appreciate the balance between business and the quality of engineering solutions. I also have experience in building an effective team of engineers of 15 people.
+I focus on building scalable, high-quality products while maintaining a strong balance between business goals and engineering excellence.
 
-I can take up engineering work or build an efficient engineering team to achieve business goals.
+In addition to hands-on development, I have experience leading and growing engineering teams of up to 15 people — from hiring and mentoring to establishing efficient processes and delivering results.
+
+I can contribute both as an individual engineer or help build and lead a high-performing team to achieve your business objectives.
+
+---
+
+## 📫 Contact me
+
+- [X (Twitter)](https://x.com/oskolsky_maxim)
+- [LinkedIn](https://www.linkedin.com/in/oskolsky)
+- [Tripadvancer](https://www.tripadvancer.com/users/oskolsky)
+- [GitHub](https://github.com/oskolsky)
+- [Email](mailto:oskolsky.maxim@gmail.com)
